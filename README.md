@@ -1,5 +1,5 @@
-# Proyecto FAQ accordion 🚀
+# Project FAQ accordion 🚀
 <!-- ![Page main of the project](background_OKAERI.png) -->
-## Tiempo de desarrollo:
+## Development Time:
 - Start: 16/12/2023
-- En desarrollo
+- In development
