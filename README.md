@@ -3,7 +3,7 @@
 
 ## Description:
 - This project showcases the display of Frequently Asked Questions (FAQs) on a web page. We utilized a development environment like VITE to initialize the application. It's a challenge from [FrontendMentor](https://www.frontendmentor.io/), a platform offering similar or more complex projects for practice.
-
+- URL: https://juanrcoder.github.io/Project-FAQ-accordion/
 
 ## Tecnologias:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
