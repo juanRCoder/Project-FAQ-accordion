@@ -41,8 +41,13 @@
 > In the Vite configuration indicate the base repository, 
 - `base : /name_repository`
 
+## Diagram of the project:
+<div style="display: flex; justify-content: center;">
+    <img src="./src/assets/diagram.png" alt="Diagram View" width="400"/>
+</div>
+
 ## Author: 
-[Juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/) - Linkedin
+[LinkedIn](https://www.linkedin.com/in/juan-ramirez-490b84271/) - Juan Ramirez
 
 
 
