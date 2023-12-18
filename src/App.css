@@ -1,0 +1,45 @@
+.Mainbg {
+  padding: 15px 0px;
+  min-height: 100vh;
+  background-image: url(/src/assets/background-pattern-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eee;
+}
+
+.MainContent {
+  width: 550px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 32px -18px hsl(292, 42%, 14%);
+}
+.boxImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.iconStart {
+  transform: scale(0.7);
+}
+h1 {
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 42%, 14%);
+  font-size: 43px;
+  margin-left: 14px;
+}
+.boxFAQ {
+  display: flex;
+  margin: 44px 0px 0px 30px;
+}
+
+@media (max-width: 600px) {
+  .MainContent {
+    width: 320px;
+  }
+  h1 {
+    font-size: 34px;
+  }
+}
