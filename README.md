@@ -42,7 +42,7 @@
 - `base : /name_repository`
 
 ## Author: 
-[LinkeDIn](https://www.linkedin.com/in/juan-ramirez-490b84271/) - Juan Ramirez
+[LinkedIn](https://www.linkedin.com/in/juan-ramirez-490b84271/) - Juan Ramirez
 
 
 
