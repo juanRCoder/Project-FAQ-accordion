@@ -58,16 +58,16 @@ You must meet certain requirements, you must first have a `node.js`.
 ##  Project Diagram
 El diagrama que diseñé utilizando Lucidchart presenta una representación visual detallada y estructurada de la funcionalidad principal del proyecto.
 <div align="center">
-   <img src="./src/assets/diagram.png" alt="Logo" width="550" height="350">
+   <img src="./src/assets/diagramProject.png" alt="Logo" width="550" height="350">
 </div>
 
 ## Resources Provided
 The resources provided by the client were as follows:
 #### Files SVG:
-1. background-pattern-desktop: [name-Api](url-repository)
-2. icon-minus: [name-Api](url-repository)
-3. icon-plus: [name-Api](url-repository)
-4. icon-star: [name-Api](https://example.com)
+1. background-pattern-desktop: [background-pattern-desktop.svg](./src/assets/background-pattern-desktop.svg)
+2. icon-minus: [icon-minus.svg](./src/assets/icon-minus.svg)
+3. icon-plus: [icon-plus.svg](./src/assets/icon-plus.svg)
+4. icon-star: [icon-star.svg](./src/assets/icon-star.svg)
 #### Fonts:
 Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap) 
 1. WorkSans-Regular-wght@400
