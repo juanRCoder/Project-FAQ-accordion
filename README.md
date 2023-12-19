@@ -23,8 +23,8 @@ For these project, the following tools, frameworks/libraries and development env
 ## Responsive Design (mobile & tablet)
 These are the project's designs optimized for both mobile and tablet viewing, complying with different screen resolutions and maintaining a consistent user experience across different screen sizes.
 <div align="center">
-  <img src="./background_mobile_FAQ_accordion.png" alt="Logo" width="250" height="400" >
-  <img src="./background_table_FAQ_accordion.png" alt="Logo" width="500" height="400" > 
+  <img src="./src/assets/background_mobile_FAQ_accordion.png" alt="Logo" width="250" height="400" >
+  <img src="./src/assets/background_table_FAQ_accordion.png" alt="Logo" width="500" height="400" > 
 </div>
 
 ## Getting Started
@@ -58,7 +58,7 @@ You must meet certain requirements, you must first have a `node.js`.
 ##  Project Diagram
 El diagrama que diseñé utilizando Lucidchart presenta una representación visual detallada y estructurada de la funcionalidad principal del proyecto.
 <div align="center">
-   <img src="./diagramProject.png" alt="Logo" width="550" height="350">
+   <img src="./src/assets/diagramProject.png" alt="Logo" width="550" height="350">
 </div>
 
 ## Resources Provided
