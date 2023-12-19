@@ -38,7 +38,7 @@ You must meet certain requirements, you must first have a `node.js`.
   ```sh
    npm install -g vite
    ```
-> [!Installation]
+>> [Installation]
 > To deploy your application on-premises, you must follow the steps below.
 > Clone the repo
   ```sh
