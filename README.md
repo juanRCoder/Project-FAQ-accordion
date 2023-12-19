@@ -42,7 +42,7 @@ You must meet certain requirements, you must first have a `node.js`.
 - To deploy your application on-premises, you must follow the steps below.
 * Clone the repo
   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/juanRCode/Project-FAQ-accordion.git
    ```
 * Install NPM packages
   ```sh
