@@ -58,7 +58,7 @@ You must meet certain requirements, you must first have a `node.js`.
 ##  Project Diagram
 El diagrama que diseñé utilizando Lucidchart presenta una representación visual detallada y estructurada de la funcionalidad principal del proyecto.
 <div align="center">
-   <img src="./src/assets/diagramProject.png" alt="Logo" width="550" height="350">
+   <img src="./src/assets/diagram.png" alt="Logo" width="550" height="350">
 </div>
 
 ## Resources Provided
