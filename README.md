@@ -38,17 +38,17 @@ You must meet certain requirements, you must first have a `node.js`.
   ```sh
    npm install -g vite
    ```
-### Installation
-- To deploy your application on-premises, you must follow the steps below.
-* Clone the repo
+> [!Installation]
+> To deploy your application on-premises, you must follow the steps below.
+> Clone the repo
   ```sh
    git clone https://github.com/juanRCode/Project-FAQ-accordion.git
    ```
-* Install NPM packages
+> Install NPM packages
   ```sh
    npm install
    ```
-* View the app
+> View the app
   ```sh
   // mode development
    npm run dev
@@ -76,7 +76,7 @@ Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&displ
 
 
 ## Contact
-juanRCoder - [[@juanrcoder](https://www.instagram.com/juanrcoder/)] -  [[@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)]
+juanRCoder - (Instagram)[[@juanrcoder](https://www.instagram.com/juanrcoder/)] -  (Linkedin)[[@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)]
 
 Project Link: [https://juanrcoder.github.io/Project-FAQ-accordion/](https://juanrcoder.github.io/Project-FAQ-accordion/)
 
