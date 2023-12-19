@@ -29,26 +29,26 @@ These are the project's designs optimized for both mobile and tablet viewing, co
 
 ## Getting Started
 ### Prerequisites 
-You must meet certain requirements, you must first have a `node.js`.
-* Install `npm`. 
+> You must meet certain requirements, you must first have a `node.js`.
+> Install `npm`. 
   ```sh
    npm install npm@latest -g
    ```
-* Install `vite`.
+> Install `vite`.
   ```sh
    npm install -g vite
    ```
->> [Installation]
+### Installation
 > To deploy your application on-premises, you must follow the steps below.
-> Clone the repo
+>> Clone the repo
   ```sh
    git clone https://github.com/juanRCode/Project-FAQ-accordion.git
    ```
-> Install NPM packages
+>> Install NPM packages
   ```sh
    npm install
    ```
-> View the app
+>> View the app
   ```sh
   // mode development
    npm run dev
