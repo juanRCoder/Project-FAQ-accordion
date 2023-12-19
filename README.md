@@ -4,7 +4,7 @@
  <p>  </p>
  <p>  </p>
 <p align='justify'>
- This project showcases the display of Frequently Asked Questions (FAQs) on a web page. We utilized a development environment like VITE to initialize the application. It's a challenge from [FrontendMentor](https://www.frontendmentor.io/), a platform offering similar or more complex projects for practice.
+ This project showcases the display of Frequently Asked Questions (FAQs) on a web page. We utilized a development environment like VITE to initialize the application. It's a challenge from <a href="https://www.frontendmentor.io/" target="_blank">FrontMentor</a>, a platform offering similar or more complex projects for practice.
 </p>
 
 </div>
