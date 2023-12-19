@@ -30,11 +30,11 @@ These are the project's designs optimized for both mobile and tablet viewing, co
 ## Getting Started
 ### Prerequisites 
 > You must meet certain requirements, you must first have a `node.js`.
-> Install `npm`. 
+>> Install `npm`. 
   ```sh
    npm install npm@latest -g
    ```
-> Install `vite`.
+>> Install `vite`.
   ```sh
    npm install -g vite
    ```
