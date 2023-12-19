@@ -1,56 +1,84 @@
-# Project FAQ accordion 🚀
-![Page main of the project](./src/assets/background_desktop_FAQ_accordion.png)
+<div align='center'>
+ <h1><em>💻 Project FAQ accordion 🚀</em></h1>
+  <img src="./src/assets/background_desktop_FAQ_accordion.png" alt="Logo" width="800" height="400" >
+ <p>  </p>
+ <p>  </p>
+<p align='justify'>
+ This project showcases the display of Frequently Asked Questions (FAQs) on a web page. We utilized a development environment like VITE to initialize the application. It's a challenge from [FrontendMentor](https://www.frontendmentor.io/), a platform offering similar or more complex projects for practice.
+</p>
 
-## Description:
-- This project showcases the display of Frequently Asked Questions (FAQs) on a web page. We utilized a development environment like VITE to initialize the application. It's a challenge from [FrontendMentor](https://www.frontendmentor.io/), a platform offering similar or more complex projects for practice.
-- URL: https://juanrcoder.github.io/Project-FAQ-accordion/
-
-## Tecnologias:
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img title="javaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-
-## Responsive Design (mobile & tablet):
-<div style="display: flex; justify-content: space-between;">
-    <img src="./src/assets/background_mobile_FAQ_accordion.png" alt="Mobile View" width="400"/>
-    <img src="./src/assets/background_table_FAQ_accordion.png" alt="Tablet View" width="400"/>
 </div>
 
+## Built With
+For these project, the following tools, frameworks/libraries and development environments (IDEs) were used:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+- <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+- <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
-
-## Deploy to GITHUB-PAGES from the terminal:
-> [! USE]
-> If you want to deploy your app on the GitHub Pages website, follow these steps:
-> install dependendecia, 
-- `npm install gh-pages --save-dev`
-> Place a script pointing to the production folder in the package.json, 
-- `"deploy": "gh-pages -d dist"`
-> In the Vite configuration indicate the base repository, 
-- `base : /name_repository`
-
-## Diagram the project:
-<div style="display: flex; justify-content: center;">
-    <img src="./src/assets/diagram.png" alt="Diagram View" width="400"/>
+## Responsive Design (mobile & tablet)
+These are the project's designs optimized for both mobile and tablet viewing, complying with different screen resolutions and maintaining a consistent user experience across different screen sizes.
+<div align="center">
+  <img src="./background_mobile_FAQ_accordion.png" alt="Logo" width="250" height="400" >
+  <img src="./background_table_FAQ_accordion.png" alt="Logo" width="500" height="400" > 
 </div>
 
-## Author: 
-[LinkedIn](https://www.linkedin.com/in/juan-ramirez-490b84271/) - Juan Ramirez
+## Getting Started
+### Prerequisites 
+You must meet certain requirements, you must first have a `node.js`.
+* Install `npm`. 
+  ```sh
+   npm install npm@latest -g
+   ```
+* Install `vite`.
+  ```sh
+   npm install -g vite
+   ```
+### Installation
+- To deploy your application on-premises, you must follow the steps below.
+* Clone the repo
+  ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+* Install NPM packages
+  ```sh
+   npm install
+   ```
+* View the app
+  ```sh
+  // mode development
+   npm run dev
+  // final mode
+   npm run start
+   ```
+##  Project Diagram
+El diagrama que diseñé utilizando Lucidchart presenta una representación visual detallada y estructurada de la funcionalidad principal del proyecto.
+<div align="center">
+   <img src="./diagramProject.png" alt="Logo" width="550" height="350">
+</div>
+
+## Resources Provided
+The resources provided by the client were as follows:
+#### Files SVG:
+1. background-pattern-desktop: [name-Api](url-repository)
+2. icon-minus: [name-Api](url-repository)
+3. icon-plus: [name-Api](url-repository)
+4. icon-star: [name-Api](https://example.com)
+#### Fonts:
+Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap) 
+1. WorkSans-Regular-wght@400
+2. WorkSans-SemiBold-wght@600
+3. WorkSans-Bold-wght@700
 
 
+## Contact
+juanRCoder - [[@juanrcoder](https://www.instagram.com/juanrcoder/)] -  [[@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)]
 
+Project Link: [https://juanrcoder.github.io/Project-FAQ-accordion/](https://juanrcoder.github.io/Project-FAQ-accordion/)
 
 
 
